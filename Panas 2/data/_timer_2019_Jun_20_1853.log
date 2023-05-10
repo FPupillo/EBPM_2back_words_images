@@ -1,0 +1,6 @@
+13.4966 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1280, 1024]. Using actual size
+16.9273 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002A64747C400>, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002A647B2C908>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1280, 1024]), stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+16.9274 	EXP 	window1: recordFrameIntervals = False
+17.0798 	EXP 	window1: recordFrameIntervals = True
+17.2635 	EXP 	window1: recordFrameIntervals = False
+17.3485 	EXP 	window1: mouseVisible = True

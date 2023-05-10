@@ -1,0 +1,22 @@
+3.5174 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1280, 1024]. Using actual size
+4.5654 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001D9B2E844A8>, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001D9B34EC9B0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1280, 1024]), stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.5655 	EXP 	window1: recordFrameIntervals = False
+4.7303 	EXP 	window1: recordFrameIntervals = True
+4.9142 	EXP 	window1: recordFrameIntervals = False
+4.9929 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+4.9931 	EXP 	Created sequence: sequential, trialTypes=1, nReps=5, seed=None
+4.9933 	EXP 	New trial (rep=0, index=0): None
+5.0081 	EXP 	text: autoDraw = True
+5.9970 	EXP 	New trial (rep=1, index=0): None
+6.0124 	EXP 	text: autoDraw = False
+6.0124 	EXP 	text: autoDraw = True
+6.9959 	EXP 	New trial (rep=2, index=0): None
+7.0123 	EXP 	text: autoDraw = False
+7.0123 	EXP 	text: autoDraw = True
+7.9959 	EXP 	New trial (rep=3, index=0): None
+8.0123 	EXP 	text: autoDraw = False
+8.0123 	EXP 	text: autoDraw = True
+8.9958 	EXP 	New trial (rep=4, index=0): None
+9.0120 	EXP 	text: autoDraw = False
+9.0120 	EXP 	text: autoDraw = True
+10.0553 	EXP 	window1: mouseVisible = True
